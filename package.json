@@ -1,0 +1,23 @@
+{
+  "name": "gulp-toolbox-demo-webpack",
+  "version": "0.0.0",
+  "description": "serve a demo app with webpack-dev-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "toolbox",
+    "ootb",
+    "webpack",
+    "demo"
+  ],
+  "author": "Hannes Diercks",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "2.13.0",
+    "eslint-config-airbnb-base": "3.0.1",
+    "eslint-plugin-import": "1.8.1"
+  }
+}
