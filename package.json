@@ -13,11 +13,22 @@
     "webpack",
     "demo"
   ],
+  "bugs": "none",
   "author": "Hannes Diercks",
   "license": "MIT",
+  "peerDependencies": {
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
   "devDependencies": {
     "eslint": "2.13.0",
     "eslint-config-airbnb-base": "3.0.1",
-    "eslint-plugin-import": "1.8.1"
+    "eslint-plugin-import": "1.8.1",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-toolbox-registry": "0.4.0",
+    "uberconfig": "0.2.1",
+    "undertaker-task-provider-registry": "1.2.1",
+    "webpack": "1.13.1",
+    "webpack-dev-server": "1.14.1"
   }
 }
